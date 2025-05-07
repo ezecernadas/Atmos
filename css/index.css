@@ -1,0 +1,13 @@
+:root{
+    --primary-font: Arial;
+    --bg-color-primary: red;
+    --bg-color-secundary: red;
+    --text-color: white;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: var(--primary-font);
+}
